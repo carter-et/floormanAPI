@@ -21,22 +21,21 @@ def hello():
         {
             "players": 6,
             "chips": [
-                {"color":"white2","amount":"100","value":1,"id":1},
+                {"color":"white2","amount":"150","value":1,"id":1},
                 {"color":"green","amount":"100","value":5,"id":2},
-                {"color":"red","amount":"100","value":10,"id":3},
-                {"color":"blue","amount":"50","value":50,"id":4},
-                {"color":"black","amount":"50","value":100,"id":5}
+                {"color":"red","amount":"200","value":10,"id":3},
+                {"color":"black","amount":"50","value":100,"id":4}
             ],
             "timePerPerson": 15,
         },
         {
             "players": 8,
             "chips": [
-                {"color":"white2","amount":"100","value":1,"id":1},
-                {"color":"green","amount":"100","value":5,"id":2},
-                {"color":"red","amount":"100","value":10,"id":3},
-                {"color":"blue","amount":"50","value":50,"id":4},
-                {"color":"black","amount":"50","value":100,"id":5}
+                {"color":"white2","amount":"150","value":1,"id":1},
+                {"color":"green","amount":"150","value":5,"id":2},
+                {"color":"red","amount":"150","value":10,"id":3},
+                {"color":"blue","amount":"75","value":50,"id":4},
+                {"color":"black","amount":"75","value":100,"id":5}
             ],
             "timePerPerson": 15,
         }
