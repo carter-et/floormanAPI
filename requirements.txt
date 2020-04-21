@@ -3,7 +3,6 @@ backports.functools-lru-cache==1.6.1
 beautifulsoup4==4.8.2
 bs4==0.0.1
 chardet==3.0.4
-cliapp==1.20170827
 click==7.1.1
 cmdtest==0.32
 colorama==0.3.7
